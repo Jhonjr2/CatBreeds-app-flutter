@@ -26,10 +26,9 @@ Una aplicación móvil hermosa y moderna que muestra razas de gatos utilizando T
 - Pull-to-refresh para actualizar datos
 
 #### 3. **Pantalla de Detalle** 🔍
-- Imagen de fondo expandible con SliverAppBar
+- Imagen de fondo
 - Información completa de la raza
 - Características destacadas (temperamento, energía, inteligencia)
-- Enlace a Wikipedia integrado
 - Diseño scrollable solo en la información (imagen fija)
 
 #### 4. **Pantalla de Scroll** 📜
@@ -198,30 +197,3 @@ La aplicación utiliza The Cat API. Para configurar tu propia API key:
 - Información completa de la raza
 - Características destacadas
 
-## 🤝 **Contribución**
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📄 **Licencia**
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 🙏 **Agradecimientos**
-
-- **The Cat API** por proporcionar datos de razas de gatos
-- **Flutter Team** por el framework increíble
-- **Comunidad Flutter** por el apoyo y recursos
-
-## 📞 **Contacto**
-
-- **Desarrollador**: [Tu Nombre]
-- **Email**: [tu.email@ejemplo.com]
-- **Proyecto**: [https://github.com/usuario/prueba_tecnica](https://github.com/usuario/prueba_tecnica)
-
----
-
-⭐ **¡Dale una estrella al proyecto si te gustó!** ⭐
